@@ -1,4 +1,4 @@
-### Olá sou o Luis Claudio  Desenvolvedor Java 👋
+### Olá sou o Luis Claudio  Desenvolvedor Python, Sql, Django, Java 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisclaudio29&show_icons=true&theme=radical)
