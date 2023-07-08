@@ -8,7 +8,12 @@
 
 
 <div style="display: inline_block"><br>
-  [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org)
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<i class="fab fa-python"></i>
+
+
 
   <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
