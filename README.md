@@ -1,5 +1,7 @@
 ### Olá sou o Luis Claudio  Desenvolvedor Python, Sql, Django, Java 👋
 
+Olá! Meu nome é Luís Claudio e atualmente estou cursando Bacharelado em Análise e Desenvolvimento de Sistemas. Sou apaixonado pela área de tecnologia desde criança e estou em busca de oportunidades de estágio em Desenvolvimento de Software com foco em Python. Durante minha graduação, tenho adquirido conhecimentos em diversas áreas, como programação orientada a objetos, banco de dados, desenvolvimento web e mobile, entre outras. Além disso, tenho buscado me aprimorar constantemente por meio de cursos online, leituras e participação em eventos da área. Acredito que o estágio será uma grande oportunidade para colocar em prática tudo o que tenho aprendido e desenvolver minhas habilidades técnicas e interpessoais. Sou uma pessoa proativa, comprometida e sempre disposta a aprender e enfrentar novos desafios. Se você procura um estagiário em Desenvolvimento de Software com foco em Python, não hesite em entrar em contato comigo. Estou pronto para contribuir com a equipe e crescer junto com a empresa.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisclaudio29&show_icons=true&theme=radical)
 
