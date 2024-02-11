@@ -1,34 +1,42 @@
-### I had my first technical encounter with technology and programming when I discovered the C# language, and I was fascinated.
+# Tive meu primeiro encontro técnico com tecnologia e programação quando descobri a linguagem Python, e fiquei fascinado.
 
-Having the ability to create any type of application, to later be used and appreciated by others, left me astonished and with an exponential desire to evolve and reach the next level.
+# Ter a capacidade de criar qualquer tipo de aplicação, para depois ser usada e apreciada por outros, me deixou impressionado e com um desejo exponencial de evoluir e alcançar o próximo nível.
 
-Being a programmer is much more than just writing code.
-Being a programmer is positively impacting people's lives, and somehow making their day-to-day easier and more practical.
+# Ser um programador é muito mais do que apenas escrever código.
+# Ser um programador é impactar positivamente a vida das pessoas, e de alguma forma tornar seu dia-a-dia mais fácil e prático.
 
-I have experience in developing applications in C# with clean code and good architecture, using the following technologies:
+# Eu tenho experiência no desenvolvimento de aplicações em Python com código limpo e boa arquitetura, utilizando as seguintes tecnologias e conceitos:
 
-ASP.NET
-MVC (framework)
-.NET Core
-Web Forms
-Entity Framework
-.NET
-Using in conjunction with C#:
+# Django
+# Flask
+# SQLAlchemy
+# Pandas
+# NumPy
+# TensorFlow
+# Scikit-learn
+# Matplotlib
+# Jupyter Notebooks
 
-Angular
-SQL
-Oracle
-Git
-Scrum
-Kanban
-Allied with some personal qualities:
+# Usando em conjunto com Python:
 
-Quick learner
-Good communication skills
-Experience in giving and receiving feedback
-Good organization and management
-Problem-solving
-Teamwork
+# HTML/CSS
+# JavaScript
+# SQL
+# MongoDB
+# Git
+# Scrum
+# Kanban
+
+# Aliado a algumas qualidades pessoais:
+
+# Rápido aprendizado
+# Boas habilidades de comunicação
+# Experiência em dar e receber feedback
+# Boa organização e gerenciamento
+# Resolução de problemas
+# Trabalho em equipe
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisclaudio29&show_icons=true&theme=radical)
 
