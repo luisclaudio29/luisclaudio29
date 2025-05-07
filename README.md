@@ -1,31 +1,20 @@
-Tive meu primeiro encontro técnico com tecnologia e programação quando descobri a linguagem Python, e fiquei fascinado.
+Sou apaixonado por análise de dados e acredito no poder do Business Intelligence para transformar empresas. Minha missão é ajudar organizações a tomar decisões estratégicas e baseadas em dados, utilizando metodologias modernas e ferramentas avançadas.
 
-Ter a capacidade de criar qualquer tipo de aplicação, para depois ser usada e apreciada por outros, me deixou impressionado e com um desejo exponencial de evoluir e alcançar o próximo nível.
+Tenho experiência em coleta, tratamento e visualização de dados, garantindo insights precisos para melhorar processos, identificar oportunidades e impulsionar o crescimento. Trabalho com Python, SQL, Power BI, Tableau, Google Analytics e AWS, sempre focado em otimizar a qualidade e eficiência dos dados.
 
-Ser um programador é muito mais do que apenas escrever código.
-Ser um programador é impactar positivamente a vida das pessoas, e de alguma forma tornar seu dia-a-dia mais fácil e prático.
+Busco atuar como um parceiro estratégico dentro das equipes, traduzindo dados em ações concretas que geram impacto real nos negócios.
 
-Eu tenho experiência no desenvolvimento de aplicações em Python com código limpo e boa arquitetura, utilizando as seguintes tecnologias e conceitos:
+Habilidades:
+- Análise de Dados & Business Intelligence
+- Data Quality & Data Cleaning
+- SQL (MySQL, SQL Server)
+- Power BI, DAX, Tableau, Google Data Studio
+- Google Analytics
+- AWS
+- Python para Data Science
+- Excel & Google Sheets
 
-Django
-Flask
-SQLAlchemy
-Pandas
-NumPy
-TensorFlow
-Scikit-learn
-Matplotlib
-Jupyter Notebooks
-
-Usando em conjunto com Python:
-
-HTML/CSS
-JavaScript
-SQL
-MongoDB
-Git
-Scrum
-Kanban
+- Sempre em busca de novos desafios para gerar valor com dados!
 
 Aliado a algumas qualidades pessoais:
 
