@@ -1,29 +1,23 @@
-Sou apaixonado por análise de dados e acredito no poder do Business Intelligence para transformar empresas. Minha missão é ajudar organizações a tomar decisões estratégicas e baseadas em dados, utilizando metodologias modernas e ferramentas avançadas.
+# 👋 Olá, eu sou o Luis Claudio  
 
-Tenho experiência em coleta, tratamento e visualização de dados, garantindo insights precisos para melhorar processos, identificar oportunidades e impulsionar o crescimento. Trabalho com Python, SQL, Power BI, Tableau, Google Analytics e AWS, sempre focado em otimizar a qualidade e eficiência dos dados.
+💡 **Engenheiro de Dados & Backend Developer**  
+Transformo dados e sistemas complexos em soluções inteligentes, escaláveis e automatizadas.  
 
-Busco atuar como um parceiro estratégico dentro das equipes, traduzindo dados em ações concretas que geram impacto real nos negócios.
+🚀 **Stack Principal:**  
+Python • SQL • Node.js • FastAPI • AWS • Docker • Pandas • Airflow • GitHub  
 
-Habilidades:
-- Análise de Dados & Business Intelligence
-- Data Quality & Data Cleaning
-- SQL (MySQL, SQL Server)
-- Power BI, DAX, Tableau, Google Data Studio
-- Google Analytics
-- AWS
-- Python para Data Science
-- Excel & Google Sheets
+📊 **O que eu construo:**  
+- Pipelines de dados e processos de ETL em Python  
+- APIs RESTful com FastAPI e Node.js  
+- Integrações entre sistemas e automações inteligentes  
+- Arquiteturas de dados em cloud (AWS)  
 
-- Sempre em busca de novos desafios para gerar valor com dados!
+🧠 **Interesses atuais:**  
+Machine Learning • DataOps • Cloud Data Engineering • IA Generativa aplicada a dados  
 
-Aliado a algumas qualidades pessoais:
+📫 **Conecte-se comigo:**  
+[LinkedIn](https://linkedin.com/in/SEUUSUARIO) | [Email](mailto:SEUEMAIL@gmail.com)
 
-Rápido aprendizado
-Boas habilidades de comunicação
-Experiência em dar e receber feedback
-Boa organização e gerenciamento
-Resolução de problemas
-Trabalho em equipe
 
 
 ![Estatísticas do GitHub de Luís Cláudio](https://github-readme-stats.vercel.app/api?username=luisclaudio29&show_icons=true&theme=radical)
