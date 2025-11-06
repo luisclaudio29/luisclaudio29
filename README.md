@@ -1,19 +1,6 @@
-# 👋 Olá, eu sou o Luis Claudio  
+# 👋 Olá, eu sou o Luis Claudio
+Software Engineer 
 
-💡 **Engenheiro de Dados & Backend Developer**  
-Transformo dados e sistemas complexos em soluções inteligentes, escaláveis e automatizadas.  
-
-🚀 **Stack Principal:**  
-Python • SQL • Node.js • FastAPI • AWS • Docker • Pandas • Airflow • GitHub  
-
-📊 **O que eu construo:**  
-- Pipelines de dados e processos de ETL em Python  
-- APIs RESTful com FastAPI e Node.js  
-- Integrações entre sistemas e automações inteligentes  
-- Arquiteturas de dados em cloud (AWS)  
-
-🧠 **Interesses atuais:**  
-Machine Learning • DataOps • Cloud Data Engineering • IA Generativa aplicada a dados  
 
 📫 **Conecte-se comigo:**  
 [LinkedIn](https://linkedin.com/in/SEUUSUARIO) | [Email](mailto:SEUEMAIL@gmail.com)
