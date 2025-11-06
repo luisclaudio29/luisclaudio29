@@ -3,7 +3,7 @@ Software Engineer
 
 
 📫 **Conecte-se comigo:**  
-[LinkedIn](https://linkedin.com/in/SEUUSUARIO) | [Email](mailto:SEUEMAIL@gmail.com)
+[LinkedIn](www.linkedin.com/in/luisclaudio18) | [Email](claudioferreira20198@gmail.com)
 
 
 
